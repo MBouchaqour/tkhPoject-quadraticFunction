@@ -1,0 +1,1 @@
+# tkhPoject-quadraticFunction
