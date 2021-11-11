@@ -6,4 +6,6 @@ This package will help you:
   3- Find an image of a given x by the first derivative of f
   4- Solve the equation f(x)=0 
 Here is the link to Package:
+---------------------------
+
 pip install -i https://test.pypi.org/simple/ quadraticPack
